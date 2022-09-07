@@ -29,7 +29,7 @@ In this project, you will apply the skills you have acquired in this course to o
 > * [run_docker.sh](run_docker.sh): a bash script to build Docker image and run the application in a Docker container
 > * [upload_docker.sh](upload_docker.sh): a bash script to upload the built Docker image to Dockerhub
 > * [run_kubernetes.sh](run_kubernetes.sh): a bash script to run the application in a Kubernetes cluster
-> * [make_prediction.sh](make_predictions.sh): a bash script to make predictions against the Docker container and k8s cluster
+> * [make_prediction.sh](make_prediction.sh): a bash script to make predictions against the Docker container and k8s cluster
 > * [README.md](README.md): project's README file
 
 ### Instructions to get started
