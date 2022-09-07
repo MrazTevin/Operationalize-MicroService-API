@@ -31,6 +31,7 @@ In this project, you will apply the skills you have acquired in this course to o
 > * [run_kubernetes.sh](run_kubernetes.sh): a bash script to run the application in a Kubernetes cluster
 > * [make_prediction.sh](make_prediction.sh): a bash script to make predictions against the Docker container and k8s cluster
 > * [README.md](README.md): project's README file
+> * [Project_Screenshots](Project_Screenshots): Checkout the screenshots that I took, while building this project 
 
 ### Instructions to get started
 
